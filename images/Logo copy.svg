@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 93 50">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #9ea3b0;
+      }
+
+      .st1 {
+        fill: #e4c3ad;
+      }
+
+      .st2 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+        letter-spacing: .08em;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st3 {
+        fill: #546a7b;
+      }
+
+      .st4 {
+        fill: #fae1df;
+      }
+    </style>
+  </defs>
+  <rect class="st3" width="23.25" height="50"/>
+  <rect class="st0" x="23.25" width="23.25" height="50"/>
+  <rect class="st4" x="46.5" width="23.25" height="50"/>
+  <rect class="st1" x="69.75" width="23.25" height="50"/>
+  <text class="st2" transform="translate(7.11 27.85)"><tspan x="0" y="0">WrenchWorks</tspan></text>
+</svg>
